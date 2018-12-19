@@ -2,7 +2,7 @@ package com.git.test;
 
 public class Main {
 	public static void main(String args[]) {
-		System.out.println("git 贸澜捞具!");
+		System.out.println("git 贸澜捞具?");
 	}
 
 }
