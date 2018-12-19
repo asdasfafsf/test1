@@ -2,9 +2,9 @@ package com.git.test;
 
 public class Main {
 	public static void main(String args[]) {
+		System.out.println("ë°˜ê°€ì›¡");
+		System.out.println("ë‚˜ë‘¥");
 
-		System.out.println("git Ã³À½ÀÌ¾ß?");
-		System.out.println("¿õÃ³À½ÀÌ¾ç");
 	}
 
 }
